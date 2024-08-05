@@ -1,0 +1,10 @@
+package demos;
+
+public class MainClass { 
+
+  public static void Main (String[] args) {
+    system.out.println("Hello World!")
+
+      }
+}
+      
